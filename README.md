@@ -36,7 +36,7 @@ The diagram below illustrates our cloud infrastructure setup:
 
 ## 📅 Timeline and To-Do
 
-The full task breakdown and timeline can be found in our [Azure DevOps Board (https://dev.azure.com/UTSCloud/UTS_Cloud/_boards/board/t/UTS_Cloud%20Team/Issues).
+The full task breakdown and timeline can be found in our [Azure DevOps Board (https://dev.azure.com/UTSCloud3/UTS_Cloud/_boards/board/t/UTS_Cloud%20Team/Issues).
 
 ---
 
