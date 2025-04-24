@@ -8,7 +8,7 @@ This repository contains the implementation and planning for our PBL (Project-Ba
 
 The diagram below illustrates our cloud infrastructure setup:
 
-![Cloud Architecture](./cloud-architectre.png)
+![Cloud Architecture](./xsuit.png)
 
 ---
 
