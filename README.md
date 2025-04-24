@@ -1,4 +1,4 @@
-# ☁️ PBL Cloud Architecture for [Project Name]
+# ☁️ PBL Cloud Architecture for CMLabs HRIS
 
 This repository contains the implementation and planning for our PBL (Project-Based Learning) project using Microsoft Azure services. The project utilizes key components of cloud computing such as Virtual Machines, Virtual Cloud Networks, Cloud Storage, and DevOps pipelines.
 
